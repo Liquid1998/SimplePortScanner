@@ -4,5 +4,4 @@
 
 
 # INSTALL DEPENDENCY USING PIP
-
-"pip install IPy"
+ pip install IPy
